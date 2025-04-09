@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/jc-raj/Music/Automation/MavenProject/src/main/java/Kinda"/>
 			<item value="/home/jc-raj/Music/Automation/Javademo"/>
 			<item value="/home/jc-raj/Music/Automation/Javademo/src/module-info.java"/>
 		</list>
@@ -46,11 +47,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Kinda"/>
 			<item value="MavenProject"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Kinda"/>
 			<item value="MavenProject"/>
 		</list>
 		<list key="projectNameTemplate">
