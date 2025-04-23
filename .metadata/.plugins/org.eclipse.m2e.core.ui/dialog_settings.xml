@@ -47,12 +47,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="KindaProject"/>
 			<item value="Kinda"/>
 			<item value="MavenProject"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="KindaProject"/>
 			<item value="Kinda"/>
 			<item value="MavenProject"/>
 		</list>
