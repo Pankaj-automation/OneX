@@ -34,7 +34,7 @@
 		<item key="WHOLE_WORD" value="true"/>
 		<item key="SEARCH_DERIVED" value="false"/>
 		<item key="SEARCH_IN_BINARIES" value="false"/>
-		<item key="HISTORY_SIZE" value="2"/>
+		<item key="HISTORY_SIZE" value="6"/>
 		<section name="EXTENSIONS">
 			<item key="0" value="*.java"/>
 		</section>
@@ -42,7 +42,7 @@
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="true"/>
-			<item key="textPattern" value="*****"/>
+			<item key="textPattern" value="System.out.println3"/>
 			<item key="scope" value="1"/>
 			<list key="fileNamePatterns">
 				<item value="*.java"/>
@@ -54,7 +54,55 @@
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="true"/>
+			<item key="textPattern" value="System.out.println2"/>
+			<item key="scope" value="1"/>
+			<list key="fileNamePatterns">
+				<item value="*.java"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY2">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="true"/>
+			<item key="textPattern" value="System.out.println1"/>
+			<item key="scope" value="1"/>
+			<list key="fileNamePatterns">
+				<item value="*.java"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY3">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="true"/>
 			<item key="textPattern" value="System.out.println"/>
+			<item key="scope" value="1"/>
+			<list key="fileNamePatterns">
+				<item value="*.java"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY4">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="true"/>
+			<item key="textPattern" value="Links"/>
+			<item key="scope" value="1"/>
+			<list key="fileNamePatterns">
+				<item value="*.java"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY5">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="true"/>
+			<item key="textPattern" value="*****"/>
 			<item key="scope" value="1"/>
 			<list key="fileNamePatterns">
 				<item value="*.java"/>
@@ -71,8 +119,15 @@
 	</section>
 	<section name="ReplaceDialog2">
 		<list key="replace_with">
-			<item value="*"/>
+			<item value="test.fail"/>
+			<item value="logger.error"/>
+			<item value="test.pass"/>
 			<item value="logger.info"/>
+			<item value="Images"/>
+			<item value="*"/>
 		</list>
+	</section>
+	<section name="">
+		<item key="org.eclipse.search.resultpage.limit" value="1000"/>
 	</section>
 </section>
