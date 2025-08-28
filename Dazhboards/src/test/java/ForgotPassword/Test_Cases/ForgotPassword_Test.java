@@ -21,7 +21,7 @@ import static utilities.Screenshot.tearDown1;
 
 @Epic("Forgot Password")
 @Feature("Forgot Password Flow")
-@Listeners({io.qameta.allure.testng.AllureTestNg.class})
+//@Listeners({io.qameta.allure.testng.AllureTestNg.class})
 public class ForgotPassword_Test extends StartupCode {
     ForgotPassword_Page forgot;
 

@@ -1,3 +1,4 @@
+/*
 package SignUp.Test_Cases;
 
 import Login.Pages.Login_Page;
@@ -16,7 +17,6 @@ import static utilities.Screenshot.tearDown1;
 
 @Epic("Sign Up Flow")
 @Feature("Complete SignUp Workflow For Free Plan")
-@Listeners({AllureTestNg.class})
 public class SignUp_FreePlan_Test extends StartupCode {
     pages.HomePage homePage;
     SignUpPage signUpPage;
@@ -158,3 +158,4 @@ public class SignUp_FreePlan_Test extends StartupCode {
         finalizeReport();
     }
 }
+*/

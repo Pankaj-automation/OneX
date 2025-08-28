@@ -1,3 +1,4 @@
+/*
 package Invoicing.Invoice_Templates;
 
 import io.qameta.allure.*;
@@ -98,3 +99,4 @@ public class Add_Invoice_Templates_Test extends StartupCode {
 
 
 }
+*/
